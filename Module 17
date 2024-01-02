@@ -1,0 +1,45 @@
+<html>
+    <div class="header">
+        <h1>Welcome to my Design Portfolio</h1>
+        <p>Aakash Shah</p>
+  </div>
+
+  <div class="content">
+    <p1>Hi, I'm Aakash.</p1>
+    <p2>I'm a designer based out of Austin, TX. 
+        I have skills in UX/UI design and skills in graphic design, 
+        as well as illustration. 
+        Welcome to my design Portfolio!
+        </p2>
+    <p3><img src= "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/public-engagement/creative-885x432.png?itok=dSncCtOa" alt= "creative"</p3>
+  </div>
+  <!doctype html>
+  <html lang="en">
+  <head></head>
+  <title>Title</title>
+  <style>
+  /* Style the body */
+  body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  /* Header/Logo Title */
+  .header {
+    padding: 50px;
+    text-align: center;
+    background: #faf7cc;
+    color: rgb(8, 8, 8);
+    font-size: 30px;
+  }
+  
+  /* Page Content */
+  .content {padding:20px; .
+    text-align: center;
+    font-size: 20px;
+
+}
+
+  
+  
+
